@@ -1,4 +1,4 @@
-package com.kam.customer;
+package com.kam.ecommerce;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
